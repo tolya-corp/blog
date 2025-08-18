@@ -1,0 +1,6 @@
+@import url('normalize.css');
+@import url('basic.css');
+
+@import url('pages/index/card.css');
+
+@import url('pages/index/header.css');
