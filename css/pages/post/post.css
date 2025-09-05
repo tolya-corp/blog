@@ -32,3 +32,8 @@
 .post__img {
     width: 100%;
 }
+
+.post__link {
+    color: #6fb9ff;
+    text-decoration: underline;
+}
