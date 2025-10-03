@@ -16,11 +16,16 @@
 }
 .post__content {
     color: white;
+    width: 100%;
 }
 .post__title {
     font-weight: bold;
     text-align: center;
     font-size: 30px;
+}
+
+.post__date {
+    color: #ffffff75;
     margin-bottom: 30px;
 }
 
@@ -36,4 +41,9 @@
 .post__link {
     color: #6fb9ff;
     text-decoration: underline;
+}
+
+.post__list {}
+.post__list-item::before {
+    content: "— "
 }

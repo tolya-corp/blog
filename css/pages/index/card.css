@@ -9,7 +9,6 @@
     padding: 12px;
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     text-align: left;
     row-gap: 10px;
 }
@@ -20,4 +19,9 @@
 
 .card__list-item-title {
     font-weight: bold;
+}
+
+.card__list-item-date {
+    color: #ffffff75;
+    display: inline-block;
 }
