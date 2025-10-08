@@ -24,9 +24,13 @@
     font-size: 30px;
 }
 
-.post__date {
+.post__metadata {
     color: #ffffff75;
     margin-bottom: 30px;
+}
+.post__author {
+    color: #ffffff75;
+    text-decoration: underline;
 }
 
 .post__text {}
